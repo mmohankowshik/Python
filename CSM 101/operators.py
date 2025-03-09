@@ -1,6 +1,0 @@
-n =int(input('enter 1st number:'))
-m =int(input('enter 2nd number:'))
-print('addition: ',n+m)
-print('subtraction;',n-m)
-print('multiplication:',n*m)
-print('division:',n/m)
