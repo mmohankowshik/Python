@@ -1,0 +1,5 @@
+n = input("Enter the item:")
+p = input("Enter the price:")
+total_len = len(n) + len(p)
+dots = "."*(25-total_len)
+print(n,dots,p,)
