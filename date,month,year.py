@@ -1,0 +1,5 @@
+n = input("Enter date in DD/MM/YYYY format:")
+m = n.split('/')
+print("Date:",m[0])
+print("month:",m[1])
+print("year:",m[2])
